@@ -1,5 +1,5 @@
 Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Minute,At_score,Type,Goal_assist
-04/05,LaLiga,34,05/01/05,H,FC Barcelona,Albacete Balompie,2:0,CF,90+1,2:0,Left-footed shot,Ronaldinho Gaucho
+04/05,LaLiga,34,05/01/05,H,FC Barcelona,Albacete Balompie,2:0,CF,91,2:0,Left-footed shot,Ronaldinho Gaucho
 05/06,UEFA Champions League,Group Stage,11/02/05,H,FC Barcelona,Panathinaikos Athens,5:0,RW,34,3:0,Left-footed shot,
 05/06,LaLiga,13,11/27/05,H,FC Barcelona,Racing Santander,4:1,RW,51,2:0,Left-footed shot,Samuel Etoo
 05/06,LaLiga,19,01/15/06,H,FC Barcelona,Athletic Bilbao,2:1,RW,50,2:1,Left-footed shot,Mark van Bommel
@@ -14,7 +14,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 06/07,LaLiga,6,10/15/06,H,FC Barcelona,Sevilla FC,3:1,RW,80,3:1,Right-footed shot,Xavi
 06/07,LaLiga,26,03/10/07,H,FC Barcelona,Real Madrid,3:3,RW,11,1:1,Left-footed shot,Samuel Etoo
 06/07,LaLiga,26,03/10/07,H,FC Barcelona,Real Madrid,3:3,RW,28,2:2,Left-footed shot,
-06/07,LaLiga,26,03/10/07,H,FC Barcelona,Real Madrid,3:3,RW,90+1,3:3,Left-footed shot,Ronaldinho Gaúcho
+06/07,LaLiga,26,03/10/07,H,FC Barcelona,Real Madrid,3:3,RW,91,3:3,Left-footed shot,Ronaldinho Gaúcho
 06/07,LaLiga,27,03/17/07,A,FC Barcelona,Recreativo Huelva,0:4,RW,86,0:4,Left-footed shot,
 06/07,LaLiga,28,03/31/07,H,FC Barcelona,Deportivo de La Coruña,2:1,RW,45,1:0,Left-footed shot,Ronaldinho Gaúcho
 06/07,Copa del Rey,Semi-Finals,04/18/07,H,FC Barcelona,Getafe CF,5:2,RW,29,2:0,Solo run,Xavi
@@ -46,7 +46,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 08/09,LaLiga,3,09/21/08,A,FC Barcelona,Sporting de Gijón,1:6,RW,89,1:6,Header,Xavi
 08/09,LaLiga,5,09/27/08,A,FC Barcelona,RCD Espanyol Barcelona,1:2,RW,90,1:2,Penalty,
 08/09,UEFA Champions League,Group Stage,10/01/08,A,FC Barcelona,Shakhtar Donetsk,1:2,RW,87,1:1,Right-footed shot,Bojan Krkic
-08/09,UEFA Champions League,Group Stage,10/01/08,A,FC Barcelona,Shakhtar Donetsk,1:2,RW,90+2,1:2,Left-footed shot,Xavi
+08/09,UEFA Champions League,Group Stage,10/01/08,A,FC Barcelona,Shakhtar Donetsk,1:2,RW,92,1:2,Left-footed shot,Xavi
 08/09,LaLiga,6,10/04/08,H,FC Barcelona,Atlético de Madrid,6:1,RW,8,3:0,Direct free kick,
 08/09,UEFA Champions League,Group Stage,10/22/08,A,FC Barcelona,FC Basel 1893,0:5,CF,4,0:1,Left-footed shot,Dani Alves
 08/09,LaLiga,9,11/01/08,A,FC Barcelona,Málaga CF,1:4,RW,19,1:2,Left-footed shot,
@@ -55,7 +55,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 08/09,LaLiga,11,11/16/08,A,FC Barcelona,Recreativo Huelva,0:2,RW,51,0:1,Left-footed shot,Xavi
 08/09,UEFA Champions League,Group Stage,11/26/08,A,FC Barcelona,Sporting CP,2:5,RW,49,0:3,Left-footed shot,Dani Alves
 08/09,LaLiga,13,11/29/08,A,FC Barcelona,Sevilla FC,0:3,RW,78,0:2,Left-footed shot,Xavi
-08/09,LaLiga,13,11/29/08,A,FC Barcelona,Sevilla FC,0:3,RW,90+2,0:3,Left-footed shot,Aleksandr Hleb
+08/09,LaLiga,13,11/29/08,A,FC Barcelona,Sevilla FC,0:3,RW,92,0:3,Left-footed shot,Aleksandr Hleb
 08/09,LaLiga,15,12/13/08,H,FC Barcelona,Real Madrid,2:0,RW,89,2:0,Counter attack goal,Thierry Henry
 08/09,Copa del Rey,Round of 16,01/06/09,A,FC Barcelona,Atlético de Madrid,1:3,RW,11,0:1,Left-footed shot,Dani Alves
 08/09,Copa del Rey,Round of 16,01/06/09,A,FC Barcelona,Atlético de Madrid,1:3,RW,57,0:2,Penalty,
@@ -83,7 +83,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 09/10,Supercopa,Final,08/23/09,H,FC Barcelona,Athletic Bilbao,3:0,RW,68,2:0,Penalty,
 09/10,LaLiga,2,09/12/09,A,FC Barcelona,Getafe CF,0:2,RW,78,0:2,Header,Zlatan Ibrahimovic
 09/10,LaLiga,3,09/19/09,H,FC Barcelona,Atlético de Madrid,5:2,RW,15,2:0,Left-footed shot,Xavi
-09/10,LaLiga,3,09/19/09,H,FC Barcelona,Atlético de Madrid,5:2,RW,90+3,5:2,Right-footed shot,Dani Alves
+09/10,LaLiga,3,09/19/09,H,FC Barcelona,Atlético de Madrid,5:2,RW,93,5:2,Right-footed shot,Dani Alves
 09/10,LaLiga,4,09/22/09,A,FC Barcelona,Racing Santander,1:4,RW,23,0:2,Left-footed shot,Xavi
 09/10,LaLiga,4,09/22/09,A,FC Barcelona,Racing Santander,1:4,RW,63,0:4,Left-footed shot,Xavi
 09/10,UEFA Champions League,Group Stage,09/29/09,H,FC Barcelona,Dynamo Kyiv,2:0,RW,25,1:0,Left-footed shot,Andres Iniesta
@@ -99,7 +99,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 09/10,LaLiga,17,01/10/10,A,FC Barcelona,CD Tenerife,0:5,RW,45,0:3,Right-footed shot,Bojan Krkic
 09/10,LaLiga,17,01/10/10,A,FC Barcelona,CD Tenerife,0:5,RW,75,0:4,Left-footed shot,Bojan Krkic
 09/10,LaLiga,18,01/16/10,H,FC Barcelona,Sevilla FC,4:0,RW,85,3:0,Left-footed shot,Dani Alves
-09/10,LaLiga,18,01/16/10,H,FC Barcelona,Sevilla FC,4:0,RW,90+1,4:0,Left-footed shot,Eric Abidal
+09/10,LaLiga,18,01/16/10,H,FC Barcelona,Sevilla FC,4:0,RW,91,4:0,Left-footed shot,Eric Abidal
 09/10,LaLiga,19,01/23/10,A,FC Barcelona,Real Valladolid CF,0:3,RW,54,0:3,Left-footed shot,Zlatan Ibrahimovic
 09/10,LaLiga,21,02/06/10,H,FC Barcelona,Getafe CF,2:1,RW,7,1:0,Left-footed shot,Yaya Toure
 09/10,LaLiga,24,02/27/10,H,FC Barcelona,Málaga CF,2:1,RW,84,2:1,Right-footed shot,Dani Alves
@@ -122,20 +122,20 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 09/10,LaLiga,35,05/01/10,A,FC Barcelona,Villarreal CF,1:4,RW,18,0:1,Left-footed shot,Xavi
 09/10,LaLiga,35,05/01/10,A,FC Barcelona,Villarreal CF,1:4,RW,87,1:4,Left-footed shot,Dani Alves
 09/10,LaLiga,36,05/04/10,H,FC Barcelona,CD Tenerife,4:1,RW,16,1:0,Right-footed shot,Zlatan Ibrahimovic
-09/10,LaLiga,36,05/04/10,H,FC Barcelona,CD Tenerife,4:1,RW,90+3,4:1,Right-footed shot,Dani Alves
+09/10,LaLiga,36,05/04/10,H,FC Barcelona,CD Tenerife,4:1,RW,93,4:1,Right-footed shot,Dani Alves
 09/10,LaLiga,37,05/08/10,A,FC Barcelona,Sevilla FC,2:3,RW,5,0:1,Left-footed shot,Maxwell
 09/10,LaLiga,38,05/16/10,H,FC Barcelona,Real Valladolid CF,4:0,RW,61,3:0,Right-footed shot,Yaya Toure
 09/10,LaLiga,38,05/16/10,H,FC Barcelona,Real Valladolid CF,4:0,RW,74,4:0,Left-footed shot,Yaya Toure
 10/11,Supercopa,Final,08/21/10,H,FC Barcelona,Sevilla FC,4:0,RW,25,2:0,Left-footed shot,Xavi
 10/11,Supercopa,Final,08/21/10,H,FC Barcelona,Sevilla FC,4:0,RW,43,3:0,Right-footed shot,Dani Alves
-10/11,Supercopa,Final,08/21/10,H,FC Barcelona,Sevilla FC,4:0,RW,90+1,4:0,Left-footed shot,Andres Iniesta
+10/11,Supercopa,Final,08/21/10,H,FC Barcelona,Sevilla FC,4:0,RW,91,4:0,Left-footed shot,Andres Iniesta
 10/11,LaLiga,1,08/29/10,A,FC Barcelona,Racing Santander,0:3,RW,3,0:1,Left-footed shot,Andres Iniesta
 10/11,UEFA Champions League,Group Stage,09/14/10,H,FC Barcelona,Panathinaikos Athens,5:1,CF,22,1:1,Left-footed shot,Xavi
 10/11,UEFA Champions League,Group Stage,09/14/10,H,FC Barcelona,Panathinaikos Athens,5:1,CF,45,3:1,Left-footed shot,Pedro
 10/11,LaLiga,3,09/19/10,A,FC Barcelona,Atlético de Madrid,1:2,CF,12,0:1,Left-footed shot,Pedro
 10/11,LaLiga,6,10/03/10,H,FC Barcelona,RCD Mallorca,1:1,CF,20,1:0,Left-footed shot,Pedro
 10/11,UEFA Champions League,Group Stage,10/20/10,H,FC Barcelona,FC Copenhagen,2:0,CF,18,1:0,Left-footed shot,Andres Iniesta
-10/11,UEFA Champions League,Group Stage,10/20/10,H,FC Barcelona,FC Copenhagen,2:0,CF,90+1,2:0,Left-footed shot,Eric Abidal
+10/11,UEFA Champions League,Group Stage,10/20/10,H,FC Barcelona,FC Copenhagen,2:0,CF,91,2:0,Left-footed shot,Eric Abidal
 10/11,LaLiga,8,10/23/10,A,FC Barcelona,Real Zaragoza,0:2,CF,41,0:1,Left-footed shot,David Villa
 10/11,LaLiga,8,10/23/10,A,FC Barcelona,Real Zaragoza,0:2,CF,65,0:2,Left-footed shot,
 10/11,LaLiga,9,10/30/10,H,FC Barcelona,Sevilla FC,5:0,RW,4,1:0,Left-footed shot,
@@ -172,7 +172,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 10/11,UEFA Champions League,last 16,03/08/11,H,FC Barcelona,Arsenal FC,3:1,RW,49,1:0,Left-footed shot,Andres Iniesta
 10/11,UEFA Champions League,last 16,03/08/11,H,FC Barcelona,Arsenal FC,3:1,RW,72,3:1,Penalty,
 10/11,LaLiga,31,04/09/11,H,FC Barcelona,UD Almera,3:1,CF,52,1:1,Penalty,
-10/11,LaLiga,31,04/09/11,H,FC Barcelona,UD Almera,3:1,CF,90+1,3:1,Left-footed shot,Seydou Keita
+10/11,LaLiga,31,04/09/11,H,FC Barcelona,UD Almera,3:1,CF,91,3:1,Left-footed shot,Seydou Keita
 10/11,UEFA Champions League,Quarter-Finals,04/12/11,A,FC Barcelona,Shakhtar Donetsk,0:1,CF,42,0:1,Left-footed shot,Dani Alves
 10/11,LaLiga,32,04/16/11,A,FC Barcelona,Real Madrid,1:1,CF,53,0:1,Penalty,
 10/11,LaLiga,33,04/23/11,H,FC Barcelona,CA Osasuna,2:0,CF,87,2:0,Right-footed shot,Dani Alves
@@ -190,7 +190,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 11/12,LaLiga,4,09/17/11,H,FC Barcelona,CA Osasuna,8:0,CF,79,8:0,Left-footed shot,Cesc Fabregas
 11/12,LaLiga,6,09/24/11,H,FC Barcelona,Atlético de Madrid,5:0,CF,26,3:0,Left-footed shot,Pedro
 11/12,LaLiga,6,09/24/11,H,FC Barcelona,Atlético de Madrid,5:0,CF,78,4:0,Left-footed shot,Dani Alves
-11/12,LaLiga,6,09/24/11,H,FC Barcelona,Atlético de Madrid,5:0,CF,90+1,5:0,Left-footed shot,David Villa
+11/12,LaLiga,6,09/24/11,H,FC Barcelona,Atlético de Madrid,5:0,CF,91,5:0,Left-footed shot,David Villa
 11/12,UEFA Champions League,Group Stage,09/28/11,A,FC Barcelona,BATE Borisov,0:5,CF,38,0:3,Header,
 11/12,UEFA Champions League,Group Stage,09/28/11,A,FC Barcelona,BATE Borisov,0:5,CF,56,0:4,Left-footed shot,Dani Alves
 11/12,LaLiga,8,10/15/11,H,FC Barcelona,Racing Santander,3:0,CF,11,1:0,Right-footed shot,Andres Iniesta
@@ -199,8 +199,8 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 11/12,LaLiga,11,10/29/11,H,FC Barcelona,RCD Mallorca,5:0,CF,21,2:0,Right-footed shot,Adriano
 11/12,LaLiga,11,10/29/11,H,FC Barcelona,RCD Mallorca,5:0,CF,30,3:0,Left-footed shot,Dani Alves
 11/12,UEFA Champions League,Group Stage,11/01/11,A,FC Barcelona,FC Viktoria Plzen,0:4,CF,24,0:1,Penalty,
-11/12,UEFA Champions League,Group Stage,11/01/11,A,FC Barcelona,FC Viktoria Plzen,0:4,CF,45+2,0:2,Left-footed shot,Adriano
-11/12,UEFA Champions League,Group Stage,11/01/11,A,FC Barcelona,FC Viktoria Plzen,0:4,CF,90+2,0:4,Left-footed shot,Gerard Pique
+11/12,UEFA Champions League,Group Stage,11/01/11,A,FC Barcelona,FC Viktoria Plzen,0:4,CF,47,0:2,Left-footed shot,Adriano
+11/12,UEFA Champions League,Group Stage,11/01/11,A,FC Barcelona,FC Viktoria Plzen,0:4,CF,92,0:4,Left-footed shot,Gerard Pique
 11/12,LaLiga,12,11/06/11,A,FC Barcelona,Athletic Bilbao,2:2,CF,90,2:2,Left-footed shot,
 11/12,LaLiga,13,11/19/11,H,FC Barcelona,Real Zaragoza,4:0,CF,43,2:0,Right-footed shot,Cesc Fabregas
 11/12,UEFA Champions League,Group Stage,11/23/11,A,FC Barcelona,AC Milan,2:3,SS,31,1:2,Penalty,
@@ -269,7 +269,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 12/13,LaLiga,8,10/20/12,A,FC Barcelona,Deportivo de La Coruña,4:5,CF,76,3:5,Left-footed shot,Xavi
 12/13,LaLiga,9,10/27/12,A,FC Barcelona,Rayo Vallecano,0:5,CF,48,0:2,Left-footed shot,Marta Montoya
 12/13,LaLiga,9,10/27/12,A,FC Barcelona,Rayo Vallecano,0:5,CF,89,0:5,Right-footed shot,Cesc Fabregas
-12/13,UEFA Champions League,Group Stage,11/07/12,A,FC Barcelona,Celtic FC,2:1,CF,90+1,2:1,Tap-in,
+12/13,UEFA Champions League,Group Stage,11/07/12,A,FC Barcelona,Celtic FC,2:1,CF,91,2:1,Tap-in,
 12/13,LaLiga,11,11/11/12,A,FC Barcelona,RCD Mallorca,2:4,CF,43,0:2,Left-footed shot,Sergio Busquets
 12/13,LaLiga,11,11/11/12,A,FC Barcelona,RCD Mallorca,2:4,CF,70,2:4,Left-footed shot,Alexis Sanchez
 12/13,LaLiga,12,11/17/12,H,FC Barcelona,Real Zaragoza,3:1,CF,15,1:0,Left-footed shot,Jordi Alba
@@ -327,7 +327,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 13/14,UEFA Champions League,Group Stage,11/06/13,H,FC Barcelona,AC Milan,3:1,CF,30,1:0,Penalty,
 13/14,UEFA Champions League,Group Stage,11/06/13,H,FC Barcelona,AC Milan,3:1,CF,83,3:1,Left-footed shot,Cesc Fabregas
 13/14,Copa del Rey,last 16,01/08/14,H,FC Barcelona,Getafe CF,4:0,CF,90,3:0,Left-footed shot,Marta Montoya
-13/14,Copa del Rey,last 16,01/08/14,H,FC Barcelona,Getafe CF,4:0,CF,90+2,4:0,Left-footed shot,Alex Song
+13/14,Copa del Rey,last 16,01/08/14,H,FC Barcelona,Getafe CF,4:0,CF,92,4:0,Left-footed shot,Alex Song
 13/14,Copa del Rey,last 16,01/16/14,A,FC Barcelona,Getafe CF,0:2,CF,43,0:1,Right-footed shot,Cristian Tello
 13/14,Copa del Rey,last 16,01/16/14,A,FC Barcelona,Getafe CF,0:2,CF,63,0:2,Left-footed shot,
 13/14,LaLiga,22,02/01/14,H,FC Barcelona,Valencia CF,2:3,CF,54,2:2,Penalty,
@@ -370,7 +370,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 14/15,UEFA Champions League,Group Stage,11/25/14,A,FC Barcelona,APOEL Nicosia,0:4,CF,38,0:2,Right-footed shot,Rafinha
 14/15,UEFA Champions League,Group Stage,11/25/14,A,FC Barcelona,APOEL Nicosia,0:4,CF,58,0:3,Right-footed shot,Dani Alves
 14/15,UEFA Champions League,Group Stage,11/25/14,A,FC Barcelona,APOEL Nicosia,0:4,CF,87,0:4,Right-footed shot,Pedro
-14/15,LaLiga,14,12/07/14,H,FC Barcelona,RCD Espanyol Barcelona,5:1,RW,45+1,1:1,Left-footed shot,Xavi
+14/15,LaLiga,14,12/07/14,H,FC Barcelona,RCD Espanyol Barcelona,5:1,RW,46,1:1,Left-footed shot,Xavi
 14/15,LaLiga,14,12/07/14,H,FC Barcelona,RCD Espanyol Barcelona,5:1,RW,50,2:1,Right-footed shot,Luis Suarez
 14/15,LaLiga,14,12/07/14,H,FC Barcelona,RCD Espanyol Barcelona,5:1,RW,81,5:1,Right-footed shot,Pedro
 14/15,UEFA Champions League,Group Stage,12/10/14,H,FC Barcelona,Paris Saint-Germain,3:1,AM,19,1:1,Right-footed shot,Luis Suarez
@@ -398,7 +398,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 14/15,LaLiga,27,03/14/15,A,FC Barcelona,SD Eibar,0:2,RW,55,0:2,Header,Ivan Rakitic
 14/15,LaLiga,30,04/08/15,H,FC Barcelona,UD Almera,4:0,RW,33,1:0,Left-footed shot,Marc Bartra
 14/15,LaLiga,31,04/11/15,A,FC Barcelona,Sevilla FC,2:2,RW,15,0:1,Left-footed shot,Neymar
-14/15,LaLiga,32,04/18/15,H,FC Barcelona,Valencia CF,2:0,RW,90+4,2:0,Left-footed shot,
+14/15,LaLiga,32,04/18/15,H,FC Barcelona,Valencia CF,2:0,RW,94,2:0,Left-footed shot,
 14/15,LaLiga,33,04/25/15,A,FC Barcelona,RCD Espanyol Barcelona,0:2,RW,25,0:2,Left-footed shot,Luis Suarez
 14/15,LaLiga,34,04/28/15,H,FC Barcelona,Getafe CF,6:0,RW,9,1:0,Penalty,
 14/15,LaLiga,34,04/28/15,H,FC Barcelona,Getafe CF,6:0,RW,47,6:0,Left-footed shot,Luis Suarez
@@ -419,7 +419,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 15/16,LaLiga,4,09/20/15,H,FC Barcelona,Levante UD,4:1,AM,90,4:1,Left-footed shot,Marc Bartra
 15/16,UEFA Champions League,Group Stage,11/24/15,H,FC Barcelona,AS Roma,6:1,RW,18,2:0,Left-footed shot,Luis Suarez
 15/16,UEFA Champions League,Group Stage,11/24/15,H,FC Barcelona,AS Roma,6:1,RW,60,5:0,Tap-in,
-15/16,LaLiga,13,11/28/15,H,FC Barcelona,Real Sociedad,4:0,RW,90+1,4:0,Left-footed shot,Neymar
+15/16,LaLiga,13,11/28/15,H,FC Barcelona,Real Sociedad,4:0,RW,91,4:0,Left-footed shot,Neymar
 15/16,UEFA Champions League,Group Stage,12/09/15,A,FC Barcelona,Bayer 04 Leverkusen,1:1,CF,20,0:1,Right-footed shot,Ivan Rakitic
 15/16,LaLiga,15,12/12/15,H,FC Barcelona,Deportivo de La Coruña,2:2,RW,39,1:0,Direct free kick,
 15/16,FIFA Club World Cup,Final,12/20/15,A,FC Barcelona,CA River Plate,0:3,RW,36,0:1,Left-footed shot,Neymar
@@ -465,7 +465,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 16/17,UEFA Champions League,Group Stage,10/19/16,H,FC Barcelona,Manchester City,4:0,RW,61,2:0,Left-footed shot,Andres Iniesta
 16/17,UEFA Champions League,Group Stage,10/19/16,H,FC Barcelona,Manchester City,4:0,RW,69,3:0,Left-footed shot,Luis Suarez
 16/17,LaLiga,9,10/22/16,A,FC Barcelona,Valencia CF,2:3,RW,22,0:1,Left-footed shot,Ivan Rakitic
-16/17,LaLiga,9,10/22/16,A,FC Barcelona,Valencia CF,2:3,RW,90+4,2:3,Penalty,
+16/17,LaLiga,9,10/22/16,A,FC Barcelona,Valencia CF,2:3,RW,94,2:3,Penalty,
 16/17,UEFA Champions League,Group Stage,11/01/16,A,FC Barcelona,Manchester City,3:1,RW,21,0:1,Left-footed shot,Neymar
 16/17,LaLiga,11,11/06/16,A,FC Barcelona,Sevilla FC,1:2,RW,43,1:1,Left-footed shot,Neymar
 16/17,UEFA Champions League,Group Stage,11/23/16,A,FC Barcelona,Celtic FC,0:2,RW,24,0:1,Left-footed shot,Neymar
@@ -473,7 +473,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 16/17,LaLiga,13,11/27/16,A,FC Barcelona,Real Sociedad,1:1,RW,59,1:1,Left-footed shot,Neymar
 16/17,UEFA Champions League,Group Stage,12/06/16,H,FC Barcelona,Borussia Mönchengladbach,4:0,RW,16,1:0,Left-footed shot,Arda Turan
 16/17,LaLiga,15,12/10/16,A,FC Barcelona,CA Osasuna,0:3,RW,72,0:2,Left-footed shot,Jordi Alba
-16/17,LaLiga,15,12/10/16,A,FC Barcelona,CA Osasuna,0:3,RW,90+2,0:3,Left-footed shot,Sergio Busquets
+16/17,LaLiga,15,12/10/16,A,FC Barcelona,CA Osasuna,0:3,RW,92,0:3,Left-footed shot,Sergio Busquets
 16/17,LaLiga,16,12/18/16,H,FC Barcelona,RCD Espanyol Barcelona,4:1,RW,90,4:1,Left-footed shot,Luis Suarez
 16/17,Copa del Rey,last 16,01/05/17,A,FC Barcelona,Athletic Bilbao,2:1,RW,52,2:1,Direct free kick,
 16/17,LaLiga,17,01/08/17,A,FC Barcelona,Villarreal CF,1:1,RW,90,1:1,Direct free kick,
@@ -498,13 +498,13 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 16/17,LaLiga,32,04/15/17,H,FC Barcelona,Real Sociedad,3:2,RW,17,1:0,Left-footed shot,Luis Suarez
 16/17,LaLiga,32,04/15/17,H,FC Barcelona,Real Sociedad,3:2,RW,37,2:0,Tap-in,
 16/17,LaLiga,33,04/23/17,A,FC Barcelona,Real Madrid,2:3,RW,33,1:1,Left-footed shot,Ivan Rakitic
-16/17,LaLiga,33,04/23/17,A,FC Barcelona,Real Madrid,2:3,RW,90+2,2:3,Left-footed shot,Jordi Alba
+16/17,LaLiga,33,04/23/17,A,FC Barcelona,Real Madrid,2:3,RW,92,2:3,Left-footed shot,Jordi Alba
 16/17,LaLiga,34,04/26/17,H,FC Barcelona,CA Osasuna,7:1,AM,12,1:0,Left-footed shot,
 16/17,LaLiga,34,04/26/17,H,FC Barcelona,CA Osasuna,7:1,AM,61,4:1,Left-footed shot,Ivan Rakitic
 16/17,LaLiga,36,05/06/17,H,FC Barcelona,Villarreal CF,4:1,RW,45,2:1,Left-footed shot,Sergio Busquets
 16/17,LaLiga,36,05/06/17,H,FC Barcelona,Villarreal CF,4:1,RW,82,4:1,Penalty,
 16/17,LaLiga,38,05/21/17,H,FC Barcelona,SD Eibar,4:2,RW,75,3:2,Penalty,
-16/17,LaLiga,38,05/21/17,H,FC Barcelona,SD Eibar,4:2,RW,90+2,4:2,Right-footed shot,
+16/17,LaLiga,38,05/21/17,H,FC Barcelona,SD Eibar,4:2,RW,92,4:2,Right-footed shot,
 16/17,Copa del Rey,Final,05/27/17,H,FC Barcelona,Deportivo Alaves,3:1,RW,30,1:0,Left-footed shot,Neymar
 17/18,Supercopa,Final,08/13/17,H,FC Barcelona,Real Madrid,1:3,RW,77,1:1,Penalty,
 17/18,LaLiga,2,08/26/17,A,FC Barcelona,Deportivo Alaves,0:2,CF,55,0:1,Left-footed shot,Jordi Alba
@@ -552,7 +552,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 17/18,LaLiga,36,05/06/18,H,FC Barcelona,Real Madrid,2:2,SS,52,2:1,Left-footed shot,Luis Suarez
 17/18,LaLiga,34,05/09/18,H,FC Barcelona,Villarreal CF,5:1,CF,45,3:0,Left-footed shot,Andres Iniesta
 18/19,LaLiga,1,08/18/18,H,FC Barcelona,Deportivo Alaves,3:0,RW,64,1:0,Direct free kick,
-18/19,LaLiga,1,08/18/18,H,FC Barcelona,Deportivo Alaves,3:0,RW,90+2,3:0,Left-footed shot,Luis Suarez
+18/19,LaLiga,1,08/18/18,H,FC Barcelona,Deportivo Alaves,3:0,RW,92,3:0,Left-footed shot,Luis Suarez
 18/19,LaLiga,3,09/02/18,H,FC Barcelona,SD Huesca,8:2,RW,16,1:1,Right-footed shot,Ivan Rakitic
 18/19,LaLiga,3,09/02/18,H,FC Barcelona,SD Huesca,8:2,RW,61,6:2,Left-footed shot,Philippe Coutinho
 18/19,UEFA Champions League,Group Stage,09/18/18,H,FC Barcelona,PSV Eindhoven,4:0,RW,31,1:0,Direct free kick,
@@ -564,7 +564,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 18/19,LaLiga,8,10/07/18,A,FC Barcelona,Valencia CF,1:1,RW,23,1:1,Left-footed shot,Luis Suarez
 18/19,LaLiga,9,10/20/18,H,FC Barcelona,Sevilla FC,4:2,RW,12,2:0,Left-footed shot,Luis Suarez
 18/19,LaLiga,12,11/11/18,H,FC Barcelona,Real Betis Balompie,3:4,SS,68,1:2,Penalty,
-18/19,LaLiga,12,11/11/18,H,FC Barcelona,Real Betis Balompie,3:4,SS,90+4,3:4,Left-footed shot,Arturo Vidal
+18/19,LaLiga,12,11/11/18,H,FC Barcelona,Real Betis Balompie,3:4,SS,94,3:4,Left-footed shot,Arturo Vidal
 18/19,UEFA Champions League,Group Stage,11/28/18,A,FC Barcelona,PSV Eindhoven,1:2,CF,61,0:1,Left-footed shot,Ousmane Dembele
 18/19,LaLiga,15,12/08/18,A,FC Barcelona,RCD Espanyol Barcelona,0:4,RW,17,0:1,Direct free kick,
 18/19,LaLiga,15,12/08/18,A,FC Barcelona,RCD Espanyol Barcelona,0:4,RW,65,0:4,Direct free kick,
@@ -575,9 +575,9 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 18/19,LaLiga,18,01/06/19,A,FC Barcelona,Getafe CF,1:2,RW,20,0:1,Left-footed shot,
 18/19,LaLiga,19,01/13/19,H,FC Barcelona,SD Eibar,3:0,RW,53,2:0,Left-footed shot,Luis Suarez
 18/19,Copa del Rey,last 16,01/17/19,H,FC Barcelona,Levante UD,3:0,CF,54,3:0,Left-footed shot,Nelson Semedo
-18/19,LaLiga,20,01/20/19,H,FC Barcelona,CD Leganes,3:1,SS,90+2,3:1,Right-footed shot,Jordi Alba
+18/19,LaLiga,20,01/20/19,H,FC Barcelona,CD Leganes,3:1,SS,92,3:1,Right-footed shot,Jordi Alba
 18/19,LaLiga,21,01/27/19,A,FC Barcelona,Girona FC,0:2,RW,69,0:2,Left-footed shot,Jordi Alba
-18/19,Copa del Rey,Quarter-Finals,01/30/19,H,FC Barcelona,Sevilla FC,6:1,RW,90+2,6:1,Left-footed shot,Jordi Alba
+18/19,Copa del Rey,Quarter-Finals,01/30/19,H,FC Barcelona,Sevilla FC,6:1,RW,92,6:1,Left-footed shot,Jordi Alba
 18/19,LaLiga,22,02/02/19,H,FC Barcelona,Valencia CF,2:2,RW,39,1:2,Penalty,
 18/19,LaLiga,22,02/02/19,H,FC Barcelona,Valencia CF,2:2,RW,64,2:2,Left-footed shot,Arturo Vidal
 18/19,LaLiga,24,02/16/19,H,FC Barcelona,Real Valladolid CF,1:0,RW,43,1:0,Penalty,
@@ -588,7 +588,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 18/19,UEFA Champions League,last 16,03/13/19,H,FC Barcelona,Olympique Lyon,5:1,RW,18,1:0,Penalty,
 18/19,UEFA Champions League,last 16,03/13/19,H,FC Barcelona,Olympique Lyon,5:1,RW,78,3:1,Right-footed shot,Sergio Busquets
 18/19,LaLiga,28,03/17/19,A,FC Barcelona,Real Betis Balompie,1:4,SS,18,0:1,Direct free kick,
-18/19,LaLiga,28,03/17/19,A,FC Barcelona,Real Betis Balompie,1:4,SS,45+2,0:2,Left-footed shot,Luis Suarez
+18/19,LaLiga,28,03/17/19,A,FC Barcelona,Real Betis Balompie,1:4,SS,47,0:2,Left-footed shot,Luis Suarez
 18/19,LaLiga,28,03/17/19,A,FC Barcelona,Real Betis Balompie,1:4,SS,85,1:4,Left-footed shot,Ivan Rakitic
 18/19,LaLiga,29,03/30/19,H,FC Barcelona,RCD Espanyol Barcelona,2:0,RW,71,1:0,Direct free kick,
 18/19,LaLiga,29,03/30/19,H,FC Barcelona,RCD Espanyol Barcelona,2:0,RW,89,2:0,Left-footed shot,Malcom
@@ -609,7 +609,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 19/20,LaLiga,11,10/29/19,H,FC Barcelona,Real Valladolid CF,5:1,RW,75,4:1,Left-footed shot,Ivan Rakitic
 19/20,LaLiga,12,11/02/19,A,FC Barcelona,Levante UD,3:1,RW,38,0:1,Penalty,
 19/20,LaLiga,13,11/09/19,H,FC Barcelona,Celta de Vigo,4:1,RW,23,1:0,Penalty,
-19/20,LaLiga,13,11/09/19,H,FC Barcelona,Celta de Vigo,4:1,RW,45+1,2:1,Direct free kick,
+19/20,LaLiga,13,11/09/19,H,FC Barcelona,Celta de Vigo,4:1,RW,46,2:1,Direct free kick,
 19/20,LaLiga,13,11/09/19,H,FC Barcelona,Celta de Vigo,4:1,RW,48,3:1,Direct free kick,
 19/20,UEFA Champions League,Group Stage,11/27/19,H,FC Barcelona,Borussia Dortmund,3:1,RW,33,2:0,Left-footed shot,Luis Suarez
 19/20,LaLiga,15,12/01/19,A,FC Barcelona,Atlético de Madrid,0:1,RW,86,0:1,Left-footed shot,Luis Suarez
@@ -626,7 +626,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 19/20,LaLiga,25,02/22/20,H,FC Barcelona,SD Eibar,5:0,SS,40,3:0,Left-footed shot,
 19/20,LaLiga,25,02/22/20,H,FC Barcelona,SD Eibar,5:0,SS,87,4:0,Left-footed shot,
 19/20,LaLiga,27,03/07/20,H,FC Barcelona,Real Sociedad,1:0,CF,81,1:0,Penalty,
-19/20,LaLiga,28,06/13/20,A,FC Barcelona,RCD Mallorca,0:4,RW,90+3,0:4,Right-footed shot,Luis Suarez
+19/20,LaLiga,28,06/13/20,A,FC Barcelona,RCD Mallorca,0:4,RW,93,0:4,Right-footed shot,Luis Suarez
 19/20,LaLiga,29,06/16/20,H,FC Barcelona,CD Leganes,2:0,RW,69,2:0,Penalty,
 19/20,LaLiga,33,06/30/20,H,FC Barcelona,Atlético de Madrid,2:2,SS,50,2:1,Penalty,
 19/20,LaLiga,37,07/16/20,H,FC Barcelona,CA Osasuna,1:2,RW,62,1:1,Direct free kick,
@@ -635,13 +635,13 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 19/20,UEFA Champions League,last 16,08/08/20,H,FC Barcelona,SSC Napoli,3:1,SS,23,2:0,Left-footed shot,
 20/21,LaLiga,3,09/27/20,H,FC Barcelona,Villarreal CF,4:0,CF,35,3:0,Penalty,
 20/21,UEFA Champions League,Group Stage,10/20/20,H,FC Barcelona,Ferencvarosi TC,5:1,CF,27,1:0,Penalty,
-20/21,UEFA Champions League,Group Stage,10/28/20,A,FC Barcelona,Juventus FC,0:2,CF,90+1,0:2,Penalty,
+20/21,UEFA Champions League,Group Stage,10/28/20,A,FC Barcelona,Juventus FC,0:2,CF,91,0:2,Penalty,
 20/21,UEFA Champions League,Group Stage,11/04/20,H,FC Barcelona,Dynamo Kyiv,2:1,RW,5,1:0,Penalty,
 20/21,LaLiga,9,11/07/20,H,FC Barcelona,Real Betis Balompie,5:2,CF,61,3:1,Penalty,
 20/21,LaLiga,9,11/07/20,H,FC Barcelona,Real Betis Balompie,5:2,CF,82,4:2,Left-footed shot,Sergi Roberto
 20/21,LaLiga,11,11/29/20,H,FC Barcelona,CA Osasuna,4:0,RW,73,4:0,Left-footed shot,Francisco TrincÃ£o
 20/21,LaLiga,13,12/13/20,H,FC Barcelona,Levante UD,1:0,CF,76,1:0,Left-footed shot,Frenkie de Jong
-20/21,LaLiga,14,12/19/20,H,FC Barcelona,Valencia CF,2:2,CF,45+4,1:1,Header,
+20/21,LaLiga,14,12/19/20,H,FC Barcelona,Valencia CF,2:2,CF,49,1:1,Header,
 20/21,LaLiga,15,12/22/20,A,FC Barcelona,Real Valladolid CF,0:3,AM,65,0:3,Left-footed shot,Pedri
 20/21,LaLiga,2,01/06/21,A,FC Barcelona,Athletic Bilbao,2:3,CF,38,1:2,Left-footed shot,Pedri
 20/21,LaLiga,2,01/06/21,A,FC Barcelona,Athletic Bilbao,2:3,CF,62,1:3,Left-footed shot,Antoine Griezmann
@@ -650,7 +650,7 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 20/21,Copa del Rey,Round of 16,01/27/21,A,FC Barcelona,Rayo Vallecano,1:2,CF,69,1:1,Left-footed shot,Antoine Griezmann
 20/21,LaLiga,21,01/31/21,H,FC Barcelona,Athletic Bilbao,2:1,CF,20,1:0,Direct free kick,
 20/21,LaLiga,22,02/07/21,A,FC Barcelona,Real Betis Balompie,2:3,CF,59,1:1,Left-footed shot,Ousmane Dembele
-20/21,LaLiga,23,02/13/21,H,FC Barcelona,Deportivo Alaves,5:1,CF,45+1,2:0,Left-footed shot,Sergio Busquets
+20/21,LaLiga,23,02/13/21,H,FC Barcelona,Deportivo Alaves,5:1,CF,46,2:0,Left-footed shot,Sergio Busquets
 20/21,LaLiga,23,02/13/21,H,FC Barcelona,Deportivo Alaves,5:1,CF,75,4:1,Left-footed shot,Antoine Griezmann
 20/21,UEFA Champions League,last 16,02/16/21,H,FC Barcelona,Paris Saint-Germain,1:4,CF,27,1:0,Penalty,
 20/21,LaLiga,24,02/21/21,H,FC Barcelona,Cadiz CF,1:1,CF,32,1:0,Penalty,
@@ -700,13 +700,13 @@ Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Min
 22/23,Ligue 1,18,01/11/23,H,Paris Saint-Germain,Angers SCO,2:0,AM,72,2:0,Right-footed shot,Nordi Mukiele
 22/23,Ligue 1,21,02/01/23,A,Paris Saint-Germain,Montpellier HSC,1:3,SS,72,0:2,Left-footed shot,Fabián Ruiz
 22/23,Ligue 1,22,02/04/23,H,Paris Saint-Germain,FC Toulouse,2:1,SS,58,2:1,Left-footed shot,Achraf Hakimi
-22/23,Ligue 1,24,02/19/23,H,Paris Saint-Germain,LOSC Lille,4:3,CF,90+5,4:3,Direct free kick,	
+22/23,Ligue 1,24,02/19/23,H,Paris Saint-Germain,LOSC Lille,4:3,CF,95,4:3,Direct free kick,	
 22/23,Ligue 1,25,02/26/23,A,Paris Saint-Germain,Olympique Marseille,0:3,CF,29,0:2,Right-footed shot,Kylian Mbappé
 22/23,Ligue 1,26,03/04/23,H,Paris Saint-Germain,FC Nantes,4:2,CF,12,1:0,Left-footed shot,
 22/23,Ligue 1,30,04/08/23,A,Paris Saint-Germain,OGC Nice,0:2,CF,26,0:1,Left-footed shot,Nuno Mendes
 22/23,Ligue 1,31,04/15/23,H,Paris Saint-Germain,RC Lens,3:1,CF,40,3:0,Left-footed shot,Kylian Mbappé
 22/23,Ligue 1,37,05/27/23,A,Paris Saint-Germain,R Strasbourg,1:1,CF,59,0:1,Left-footed shot,Kylian Mbappé
-22/23,Leagues Cup,Group Stage,07/22/23,A,Inter Miami CF,CD Cruz Azul,1:2,RW,90+4,1:2,Direct free kick,
+22/23,Leagues Cup,Group Stage,07/22/23,A,Inter Miami CF,CD Cruz Azul,1:2,RW,94,1:2,Direct free kick,
 22/23,Leagues Cup,Group Stage,07/26/23,H,Inter Miami CF,Atlanta United FC,4:0,RW,8,1:0,Right-footed shot,Sergio Busquets
 22/23,Leagues Cup,Group Stage,07/26/23,H,Inter Miami CF,Atlanta United FC,4:0,RW,22,2:0,Right-footed shot,Robert Taylor
 22/23,Leagues Cup,Round of 32,08/02/23,H,Inter Miami CF,Orlando City SC,3:1,RW,7,1:0,Left-footed shot,Robert Taylor
