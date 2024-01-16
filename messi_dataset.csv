@@ -1,4 +1,4 @@
-Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Minute,At_score,Type,Goal_assist
+Season,Competition,Matchday,Date,Venue,Club,Opponent,Result,Playing_Position,Minute,At_score,Type,Goal_assist,MT_Result,Opponent_result,MT_At_Score,Opponent_At_Score
 04/05,LaLiga,34,05/01/05,H,FC Barcelona,Albacete Balompie,2:0,CF,91,2:0,Left-footed shot,Ronaldinho Gaucho
 05/06,UEFA Champions League,Group Stage,11/02/05,H,FC Barcelona,Panathinaikos Athens,5:0,RW,34,3:0,Left-footed shot,
 05/06,LaLiga,13,11/27/05,H,FC Barcelona,Racing Santander,4:1,RW,51,2:0,Left-footed shot,Samuel Etoo
